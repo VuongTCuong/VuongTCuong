@@ -14,4 +14,6 @@ Hello 👋, I'm Vuong Tieu Cuong, my profile is below
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VuongTCuong&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VuongTCuong&repo=Python-for-newbie)](https://github.com/VuongTCuong/Python-for-newbie)
+<a href="https://github.com/VuongTCuong/Python-for-newbie">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VuongTCuong&repo=Python-for-newbie&theme=shades-of-purple" />
+</a>
