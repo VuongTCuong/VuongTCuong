@@ -13,3 +13,5 @@ Hello 👋, I'm Vuong Tieu Cuong, my profile is below
 
 ---
 [![](https://visitcount.itsvg.in/api?id=VuongTCuong&icon=0&color=0)](https://visitcount.itsvg.in)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/VuongTCuong/Python-for-newbie)
