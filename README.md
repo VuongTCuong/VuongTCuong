@@ -1,6 +1,8 @@
 # 💫About Me :
 Hello 👋, I'm Vuong Tieu Cuong, my profile is below
 
+![](https://komarev.com/ghpvc/?username=VuongTCuong&color=blueviolet)
+
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/cuong.vuong.773776) 
 
@@ -12,6 +14,4 @@ Hello 👋, I'm Vuong Tieu Cuong, my profile is below
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VuongTCuong&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=VuongTCuong&icon=0&color=0)](https://visitcount.itsvg.in)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VuongTCuong&repo=Python-for-newbie)](https://github.com/VuongTCuong/Python-for-newbie)
