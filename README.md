@@ -1,7 +1,7 @@
 # 💫About Me :
 Hello 👋, I'm Vuong Tieu Cuong, my profile is below
 
-![](https://komarev.com/ghpvc/?username=VuongTCuong&color=blueviolet)
+[![](https://visitcount.itsvg.in/api?id=VuongTCuong&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/cuong.vuong.773776) 
