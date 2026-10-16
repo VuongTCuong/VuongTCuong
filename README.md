@@ -17,9 +17,6 @@ Hello 👋, I'm Vuong Tieu Cuong, my profile is below
 <a href="https://github.com/VuongTCuong/Python-for-newbie">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VuongTCuong&repo=Python-for-newbie&theme=shades-of-purple" />
 </a>
-<a href="https://github.com/justnas03/QuizNow">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=justnas03&repo=QuizNow&theme=onedark&show_owner=true" />
-</a>
 <a href="https://github.com/VuongTCuong/StudentManagement">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VuongTCuong&repo=StudentManagement&theme=prussian&show_owner=true" />
 </a>
