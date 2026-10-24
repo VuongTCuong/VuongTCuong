@@ -67,4 +67,3 @@ A RESTful backend API for managing products, shopping carts, orders, and simulat
 ### 📫 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-VuongTCuong-181717?style=flat-square&logo=github)](https://github.com/VuongTCuong)
-[![Facebook](https://img.shields.io/badge/Facebook-Connect-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/cuong.vuong.773776)
